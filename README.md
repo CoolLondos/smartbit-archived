@@ -1,5 +1,5 @@
 
-> Open this page at [https://coollondos.github.io/smartbit/](https://coollondos.github.io/smartbit-archived/)
+> Open this page at [https://coollondos.github.io/smartbit-archived/](https://coollondos.github.io/smartbit-archived/)
 
 ## Use as Extension
 
